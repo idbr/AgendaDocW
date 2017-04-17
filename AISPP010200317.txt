@@ -1,9 +1,10 @@
-P醙ina de T韙ulo
-Hoja de revisi髇
+P谩gina de T铆tulo
+Hoja de revisi贸n
 Prefacio
 Tabla de contenidos
 Lista de figuras
 Lista de tablas
-I.	Introducci髇
-	A.	Visi髇 general del proyecto
+I.	Introducci贸n
+	A.	Visi贸n general del proyecto
 	B.	Productos finales
+Para el cliente se desarrollar谩 una nueva versi贸n de la agenda telef贸nica
