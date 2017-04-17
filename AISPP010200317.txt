@@ -1,9 +1,10 @@
-P醙ina de T韙ulo
-Hoja de revisi髇
+P谩gina de T铆tulo
+Hoja de revisi贸n
 Prefacio
 Tabla de contenidos
 Lista de figuras
 Lista de tablas
-I.	Introducci髇
-	A.	Visi髇 general del proyecto
+I.	Introducci贸n
+	A.	Visi贸n general del proyecto
+El objetivo del proyecto es mejorar una agenda telef贸nica ya existente para que esta cuente con una interfaz con la imagen corporativa de la universidad...
 	B.	Productos finales
